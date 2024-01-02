@@ -1,0 +1,47 @@
+.features-subtitles{
+    
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+    margin: 0px 0px 10px;
+    
+}
+
+.features-list{
+   display: flex;
+   justify-content: space-between;
+   width: 1200px;
+   margin: 0 auto;
+   padding: 94px;
+   
+    
+}
+.features-list{
+    list-style-type: none;
+}
+.features-paragraph{
+   
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    /* or 171% */
+    letter-spacing: 0.03em;
+    color: #757575;
+   
+
+
+}
+.features-container{
+    width: 270px;
+    height: 120px;
+    background-color: #F5F4FA;
+    display: flex;
+    margin-bottom: 30px;
+}
+.icon-features{
+    margin: 0 auto;
+    padding: 25px 0;
+}

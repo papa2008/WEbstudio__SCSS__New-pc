@@ -1,0 +1,92 @@
+.main-navigation-list{
+    width: 575px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 94px;
+}
+.button-item{
+    overflow: hidden;
+}
+.button-all{
+
+width: 73px;
+height: 38px;
+background: #f5f4fa;
+border-radius: 4px;
+border-color: #f5f4fa;
+border: none;
+transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+
+
+}
+
+.button-web{
+width: 125px;
+height: 38px;
+background: #F5F4FA;
+border-radius: 4px;
+border-color: #F5F4FA;
+border: none;
+transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.button-add{
+width: 112px;
+height: 38px;
+background: #F5F4FA;
+border-radius: 4px;
+border-color: #F5F4FA;
+border: none;
+transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.button-design{
+width: 103px;
+height: 38px;
+background: #F5F4FA;
+border-radius: 4px;
+border-color: #F5F4FA;
+border: none;
+transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.button-marketing{
+width: 130px;
+height: 38px;
+background: #F5F4FA;
+border-radius: 4px;
+border-color: #F5F4FA;
+border: none;
+transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.button-all:hover{
+background: #2196F3;
+color: #FFFFFF;
+transform: scaleX(1.2);
+cursor: pointer;
+}
+.button-marketing:hover{
+background: #2196F3;
+color: #FFFFFF;
+transform: scaleX(1.2);
+cursor: pointer;
+}
+.button-add:hover{
+background: #2196F3;
+color: #FFFFFF;
+transform: scaleX(1.2);
+cursor: pointer;
+}
+.button-web:hover{
+background: #2196F3;
+color: #FFFFFF;
+transform: scaleX(1.2);
+cursor: pointer;
+}
+.button-design:hover{
+background: #2196F3;
+color: #FFFFFF;
+transform: scaleX(1.2);
+cursor: pointer;
+}
